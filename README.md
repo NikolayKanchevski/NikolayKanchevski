@@ -114,7 +114,7 @@ My MacBook </h2>
 <div align="center">
 	
 
-![Languages](https://raw.githubusercontent.com/NikichaTV/ReadmeStats/68657e2d88084eb8a5b2a24a9932867d874fa3cc/generated/languages.svg?token=AS55RHAGOTPQSCHKFCE6NXLB2G4DK)
+![Languages](https://raw.githubusercontent.com/NikichaTV/ReadmeStats/68657e2d88084eb8a5b2a24a9932867d874fa3cc/generated/languages.svg?token=AS55RHA6EEUJCMNIWV4VWDLB2G46U)
 
 
 </div>
