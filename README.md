@@ -116,7 +116,7 @@ My MacBook </h2>
 
 <div align=center>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/??user=NikichaTV" alt="NikichaTV"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikichaTV" alt="NikichaTV"></p>
 
 </div>
 
