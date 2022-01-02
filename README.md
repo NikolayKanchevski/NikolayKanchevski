@@ -72,7 +72,7 @@ My MacBook </h2>
 
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333??style=for-the-badge&logo=apple&logoColor=white)
 
-![MacBook](https://img.shields.io/badge/Apple%Sillicon-333333??style=for-the-badge&logo=apple&logoColor=white)
+![MacBook](https://img.shields.io/badge/Apple%20Sillicon-333333??style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
