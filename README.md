@@ -1,14 +1,14 @@
 <h2 align="center"> Hello 👋 , Niki here! <br/></h2> 
 <h3 align="center">Also known as "Nikicha" to some people. <br> <br>
   <a href="https://github.com/NikichaTV" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/NikichaTV?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
-  <a href="https://github.com/NikichaTV" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=NikichaTV&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  </a> <br> 
+  <a href="https://github.com/NikichaTV" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/NikichaTV?label=Github%20followers&style=for-the-badge">
   </a>
-  </h3> 
-      
-               
+</h3> 
+<br>
+   
      
 <div align="center">
 </div>
