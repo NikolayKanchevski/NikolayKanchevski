@@ -86,8 +86,8 @@ My MacBook </h2>
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://c.tenor.com/L_27b33exGYAAAAM/wot-world.gif' width='280' height='157'></a>
 
   ✨ This is pretty much how my code works... ✨
-  <br>
-  (Yup, I love World of Tanks) 
+  <!--<br>
+  (Yup, I love World of Tanks) -->
  
 <br>
 🌟 Star the repos if you find them useful 🌟
