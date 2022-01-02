@@ -90,7 +90,7 @@ My MacBook </h2>
   (Yup, I love World of Tanks) -->
  
 <br>
-🌟 Star the repos if you find them useful 🌟
+🌟 Star my repos if you find them useful 🌟
 
 </div>
 
