@@ -104,7 +104,7 @@ My MacBook </h2>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Statistics](https://raw.githubusercontent.com/NikichaTV/ReadmeStats/68657e2d88084eb8a5b2a24a9932867d874fa3cc/generated/overview.svg?token=AS55RHA45YNZ735WO5GWQMTB2G4M6)
+![Statistics](https://github.com/NikichaTV/ReadmeStats/blob/master/generated/overview.svg)
 	
 	
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
