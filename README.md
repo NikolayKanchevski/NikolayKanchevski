@@ -5,7 +5,7 @@
   </a>
 <br> 
   <a href="https://github.com/NikichaTV" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/NikichaTV??label=Github%20followers&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/NikichaTV?label=Github%20followers&style=for-the-badge">
   </a>
 </h3> 
    
