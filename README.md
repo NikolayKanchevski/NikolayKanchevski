@@ -93,12 +93,6 @@ My MacBook </h2>
 <br>
 🌟 Star the repos if you find them useful 🌟
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikichaTV" alt="NikichaTV" /></p>
-
-
-
 </div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -119,5 +113,12 @@ My MacBook </h2>
 
 </div>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align=center>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikichaTV" alt="NikichaTV"></p>
+
+</div>
 ------
 Last Edited on: 01/02/2022
