@@ -17,7 +17,7 @@
 Technologies and Languages </h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6??style=flat-square&logo=windows&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94??style=flat-square&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94??style=flat-square&logo=kali-linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000??style=flat-square&logo=Apple&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91??style=flat-square&logo=visual%20studio&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4??style=flat-square&logo=visual%20studio%20code&logoColor=white)
